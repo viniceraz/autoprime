@@ -61,7 +61,7 @@ export default function AdminLogin() {
         </form>
 
         <p className="text-xs text-ink-400 mt-6 text-center">
-          Crie um usuário no Supabase &rarr; Authentication &rarr; Users
+          
         </p>
       </div>
     </div>
